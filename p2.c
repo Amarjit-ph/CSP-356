@@ -1,3 +1,11 @@
+/*
+    COPY AND PASTE
+    compare_lists
+    FUNTION INTO YOUR CODE
+    
+*/
+    
+
 #include <assert.h>
 #include <limits.h>
 #include <math.h>
@@ -74,6 +82,10 @@ void free_singly_linked_list(SinglyLinkedListNode* node) {
  * };
  *
  */
+
+
+//COPY START HERE
+
 bool compare_lists(SinglyLinkedListNode* head1, SinglyLinkedListNode* head2) {
     int flag = 0;  
     while(head1 != NULL && head2 != NULL) { if(head1->data!=head2->data) { flag=1; break;   }   head1 = head1->next; head2 = head2->next; }
@@ -83,7 +95,8 @@ if(flag==1 || head1!=NULL || head2!=NULL)
 else
     return 1;
 }
-    
+
+//COPY END HERE
 
 
 int main()
