@@ -1,7 +1,7 @@
 /*
     COPY AND PASTE
-    compare_lists
-    FUNTION INTO YOUR CODE
+    " compare_lists " FUNCTION
+    INTO YOUR CODE
     
 */
     
