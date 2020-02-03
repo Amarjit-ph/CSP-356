@@ -12,3 +12,6 @@ NTPPIS 12 <br />
 
 2. Compare two linkedlists
 [https://www.hackerrank.com/challenges/compare-two-linked-lists/problem]
+
+3. Easy Going.(Very Easy)
+https://www.hackerearth.com/practice/algorithms/sorting/bubble-sort/practice-problems/algorithm/min-max-difference
