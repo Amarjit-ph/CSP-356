@@ -21,5 +21,5 @@ NTPPIS 12 <br />
 4. Problem onto find really special subtree in an unidirected connected graph
 [https://www.hackerrank.com/challenges/kruskalmstrsub/problem]
 
-5. Problem on Snakes and Ladders: The Quickest way up
+5. Problem on Snakes and Ladders: The Quickest way up <br>
 [https://www.hackerrank.com/challenges/the-quickest-way-up/problem]
