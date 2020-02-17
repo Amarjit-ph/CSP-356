@@ -18,8 +18,8 @@ NTPPIS 12 <br />
 3. Easy Going.(Very Easy)
 https://www.hackerearth.com/practice/algorithms/sorting/bubble-sort/practice-problems/algorithm/min-max-difference
 
-4.Problem onto find really special subtree in an unidirected connected graph
+4. Problem onto find really special subtree in an unidirected connected graph
 [https://www.hackerrank.com/challenges/kruskalmstrsub/problem]
 
-5.Problem on Snakes and Ladders: The Quickest way up
+5. Problem on Snakes and Ladders: The Quickest way up
 [https://www.hackerrank.com/challenges/the-quickest-way-up/problem]
