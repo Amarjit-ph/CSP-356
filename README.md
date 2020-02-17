@@ -16,7 +16,7 @@ NTPPIS 12 <br />
 [https://www.hackerrank.com/challenges/compare-two-linked-lists/problem]
 
 3. Easy Going.(Very Easy)
-https://www.hackerearth.com/practice/algorithms/sorting/bubble-sort/practice-problems/algorithm/min-max-difference
+[https://www.hackerearth.com/practice/algorithms/sorting/bubble-sort/practice-problems/algorithm/min-max-difference]
 
 4. Problem onto find really special subtree in an unidirected connected graph
 [https://www.hackerrank.com/challenges/kruskalmstrsub/problem]
