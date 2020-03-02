@@ -13,11 +13,11 @@ NTPPIS 12 <br />
 [[ QUESTION LINK ]](https://www.hackerearth.com/practice/data-structures/arrays/multi-dimensional/practice-problems/algorithm/add-alternate-elements-of-2-dimensional-array/description/)
 [[ SOURCE CODE ]](https://github.com/Amarjit-pheiroijam/technical-Lab/blob/master/p1.cpp)
 
-2. Compare two linkedlists
+2. Compare two linkedlists :
 [[QUESTION LINK]](https://www.hackerrank.com/challenges/compare-two-linked-lists/problem)
 [[SOURCE CODE]](https://github.com/Amarjit-pheiroijam/technical-Lab/blob/master/p2.c)
 
-3. Easy Going.(Very Easy)
+3. Easy Going :
 [[ QUESTION LINK ]](https://www.hackerearth.com/practice/algorithms/sorting/bubble-sort/practice-problems/algorithm/min-max-difference)
 [[ SOURCE CODE ]](https://github.com/Amarjit-pheiroijam/technical-Lab/blob/master/p3.cpp)
 
