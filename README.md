@@ -11,6 +11,7 @@ NTPPIS 12 <br />
 ## Practical Experiments</br>
 1. Add Alternate Elements of 2-Dimensional Array <br>
 [https://www.hackerearth.com/practice/data-structures/arrays/multi-dimensional/practice-problems/algorithm/add-alternate-elements-of-2-dimensional-array/description/]
+[SOURCE CODE](https://github.com/Amarjit-pheiroijam/technical-Lab/blob/master/p1.cpp)
 
 2. Compare two linkedlists
 [https://www.hackerrank.com/challenges/compare-two-linked-lists/problem]
