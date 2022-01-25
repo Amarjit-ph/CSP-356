@@ -1,30 +1,15 @@
 
-# TECHNICAL LAB
-### BACHELOR FOR TECHNOLOGY COMPUTER SCIENCE AND ENGINEERING
+## CSP-356 Techinal Tranning
 
-## CHANDIGARH UNIVERSITY
-<b>AMARJIT PHEIROIJAM </b><br />
-17BCS2198 <br/>
-BE CSE <br />
-NTPPIS 12 <br />
+Bachelor of Engineering<br/>
+Computer Science & Engineering<br/>
+<b>CHANDIGARH UNIVERSITY</b>
 
-## Practical Experiments</br>
-1. Add Alternate Elements of 2-Dimensional Array :
-[[ QUESTION LINK ]](https://www.hackerearth.com/practice/data-structures/arrays/multi-dimensional/practice-problems/algorithm/add-alternate-elements-of-2-dimensional-array/description/)
-[[ SOURCE CODE ]](https://github.com/Amarjit-pheiroijam/technical-Lab/blob/master/p1.cpp)
+SEMESTER 6
 
-2. Compare two linkedlists :
-[[QUESTION LINK]](https://www.hackerrank.com/challenges/compare-two-linked-lists/problem)
-[[SOURCE CODE]](https://github.com/Amarjit-pheiroijam/technical-Lab/blob/master/p2.c)
-
-3. Easy Going :
-[[ QUESTION LINK ]](https://www.hackerearth.com/practice/algorithms/sorting/bubble-sort/practice-problems/algorithm/min-max-difference)
-[[ SOURCE CODE ]](https://github.com/Amarjit-pheiroijam/technical-Lab/blob/master/p3.cpp)
-
-4. Problem onto find really special subtree in an unidirected connected graph
-[[ QUESTION LINK ]](https://www.hackerrank.com/challenges/kruskalmstrsub/problem)
-[[ SOURCE CODE ]](https://github.com/Amarjit-pheiroijam/technical-Lab/blob/master/p4.cpp)
-
-5. Problem on Snakes and Ladders: The Quickest way up
-[[ QUESTION LINK ]](https://www.hackerrank.com/challenges/the-quickest-way-up/problem)
-[[ SOURCE CODE ]](https://github.com/Amarjit-pheiroijam/technical-Lab/blob/master/p5.cpp)
+### Practical Experiments</br>
+[1.Question ](https://www.hackerearth.com/practice/data-structures/arrays/multi-dimensional/practice-problems/algorithm/add-alternate-elements-of-2-dimensional-array/description/)Add Alternate Elements of 2-Dimensional Array - [Answer](https://github.com/Amarjit-pheiroijam/technical-Lab/blob/master/p1.cpp)<br/>
+[2.Question](https://www.hackerrank.com/challenges/compare-two-linked-lists/problem) Compare two linkedlists - [Answer](https://github.com/Amarjit-pheiroijam/technical-Lab/blob/master/p2.c)<br/>
+[3.Question](https://www.hackerearth.com/practice/algorithms/sorting/bubble-sort/practice-problems/algorithm/min-max-difference) Easy Going - [Answer](https://github.com/Amarjit-pheiroijam/technical-Lab/blob/master/p3.cpp)<br/>
+[4.Question](https://www.hackerrank.com/challenges/kruskalmstrsub/problem) Problem onto find really special subtree in an unidirected connected graph - [Answer](https://github.com/Amarjit-pheiroijam/technical-Lab/blob/master/p4.cpp)<br/>
+[5.Question](https://www.hackerrank.com/challenges/the-quickest-way-up/problem) Snakes and Ladders: The Quickest Way Up - [Answer](https://github.com/Amarjit-pheiroijam/technical-Lab/blob/master/p5.cpp)
