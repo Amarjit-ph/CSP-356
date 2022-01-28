@@ -1,5 +1,5 @@
 
-## CSP-356 Techinal Tranning
+## CSP-356 Technical Trainning
 
 Bachelor of Engineering<br/>
 Computer Science & Engineering<br/>
